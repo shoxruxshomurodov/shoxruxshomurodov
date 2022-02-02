@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shoxruxshomurodov
-- 👀 I’m interested in programming , playing football ⚽
+- 👀 I’m interested in programming and playing football ⚽
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/shoxruxshomurodov1998
