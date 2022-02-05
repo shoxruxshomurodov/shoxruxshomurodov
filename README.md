@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and playing football ⚽
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://t.me/shoxruxshomurodov1998
+- 📫 How to reach me on Telegram: https://t.me/shoxruxshomurodov1998 
 
 <!---
 shoxruxshomurodov/shoxruxshomurodov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
